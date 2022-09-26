@@ -1,3 +1,2 @@
-My first readme
-
-i update my readme
+My first commit
+Am happy to be part of ALX Software Engineer.
